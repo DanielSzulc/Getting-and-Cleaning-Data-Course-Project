@@ -8,7 +8,8 @@
 #
 #  ******* output: tidy data set as described in CodeBook.md document
 
-
+##load required R packages
+require(reshape2)
 
 
 ##download data if there are no data in working directory
